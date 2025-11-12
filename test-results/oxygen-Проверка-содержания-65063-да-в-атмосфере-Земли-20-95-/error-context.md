@@ -1,0 +1,499 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - button "Ключевые слова" [ref=e9] [cursor=pointer]: Ключевые слова
+      - link "Полная справка" [ref=e13] [cursor=pointer]:
+        - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA
+        - text: Полная справка
+    - heading "Результаты поиска" [level=1] [ref=e15]
+    - generic [ref=e16]:
+      - link "Перейти к навигации" [ref=e17] [cursor=pointer]:
+        - /url: "#mw-head"
+      - link "Перейти к поиску" [ref=e18] [cursor=pointer]:
+        - /url: "#searchInput"
+      - generic [ref=e19]:
+        - generic [ref=e21]:
+          - generic:
+            - generic [ref=e24]:
+              - combobox [ref=e27]: Земля
+              - button "Найти" [ref=e32] [cursor=pointer]
+            - generic [ref=e33]:
+              - text: Результаты
+              - strong [ref=e34]: 1—20
+              - text: из
+              - strong [ref=e35]: 196 956
+          - generic [ref=e36]:
+            - generic "Расширенный поиск:" [ref=e38]:
+              - 'button "Расширенный поиск: Сортировать по релевантности" [ref=e39] [cursor=pointer]':
+                - generic [ref=e41]:
+                  - generic [ref=e42]: "Расширенный поиск:"
+                  - list "Используемые в настоящее время поисковые запросы" [ref=e43]:
+                    - listitem "релевантности" [ref=e44]:
+                      - generic [ref=e45]: Сортировать по релевантности
+            - generic "Поиск по:" [ref=e48]:
+              - 'button "Поиск по: (Основное)" [ref=e49] [cursor=pointer]':
+                - generic [ref=e51]:
+                  - generic [ref=e52]: "Поиск по:"
+                  - list "Активные фильтры пространств имён" [ref=e53]:
+                    - listitem "(Основное)" [ref=e54]:
+                      - generic [ref=e55]: (Основное)
+                      - button "Удалить" [ref=e57]
+        - generic [ref=e60]:
+          - generic [ref=e62]:
+            - text: Просмотреть (предыдущие 20 |
+            - link "следующие 20" [ref=e63] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=20&offset=20&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: ) (20 |
+            - link "50" [ref=e64] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=50&offset=0&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: "|"
+            - link "100" [ref=e65] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=100&offset=0&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: "|"
+            - link "250" [ref=e66] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=250&offset=0&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: "|"
+            - link "500" [ref=e67] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=500&offset=0&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: )
+          - list [ref=e69]:
+            - listitem [ref=e70]:
+              - generic [ref=e71]:
+                - link "Миниатюра для Земля" [ref=e73] [cursor=pointer]:
+                  - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - img "Миниатюра для Земля" [ref=e74]
+                - generic [ref=e75]:
+                  - link "Земля" [ref=e77] [cursor=pointer]:
+                    - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e78] [cursor=pointer]: По различным оценкам, Земля будет сохранять условия для существования живых организмов ещё в течение 0,5—2,3 млрд лет➤. Земля взаимодействует (притягивается...
+                  - generic [ref=e79] [cursor=pointer]: 243 КБ (15 079 слов) - 13:52, 10 октября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e80] [cursor=pointer]
+            - listitem [ref=e81]:
+              - generic [ref=e82]:
+                - link "Миниатюра для Новая Земля" [ref=e84] [cursor=pointer]:
+                  - /url: /wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - img "Миниатюра для Новая Земля" [ref=e85]
+                - generic [ref=e86]:
+                  - link "Новая Земля" [ref=e88] [cursor=pointer]:
+                    - /url: /wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e89] [cursor=pointer]: Но́вая Земля́ (помор. Ма́тка и карел. Matka — дословно «путь», «дорога», нен. Едэй-Я — дословно «Новая Земля») — архипелаг в Северном Ледовитом океане...
+                  - generic [ref=e90] [cursor=pointer]: 107 КБ (6699 слов) - 01:46, 10 ноября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e91] [cursor=pointer]
+            - listitem [ref=e92]:
+              - generic [ref=e93]:
+                - link "Миниатюра для Ракета «земля — земля»" [ref=e95] [cursor=pointer]:
+                  - /url: /wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%B0_%C2%AB%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F_%E2%80%94_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%C2%BB
+                  - img "Миниатюра для Ракета «земля — земля»" [ref=e96]
+                - generic [ref=e97]:
+                  - link "Ракета «земля — земля»" [ref=e99] [cursor=pointer]:
+                    - /url: /wiki/%D0%A0%D0%B0%D0%BA%D0%B5%D1%82%D0%B0_%C2%AB%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F_%E2%80%94_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%C2%BB
+                  - generic [ref=e100] [cursor=pointer]: Ракета класса «земля-поверхность» (SSM) или ракета класса «земля-земля» (GGM) — это ракета, предназначенная для запуска с земли или моря и поражения целей...
+                  - generic [ref=e101] [cursor=pointer]: 11 КБ (706 слов) - 16:39, 23 ноября 2024
+                  - button "Открыть предпросмотр этой статьи." [ref=e102] [cursor=pointer]
+            - listitem [ref=e103]:
+              - generic [ref=e104]:
+                - img [ref=e107]
+                - generic [ref=e110]:
+                  - link "Земля любви, земля надежды" [ref=e112] [cursor=pointer]:
+                    - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8,_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F_%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B
+                  - generic [ref=e113] [cursor=pointer]: «Земля любви, земля надежды» (порт. Esperança) — бразильский сериал телекомпании «TV Globo» 2002 года. Изначально задумывался как продолжение предыдущего...
+                  - generic [ref=e114] [cursor=pointer]: 16 КБ (903 слова) - 19:04, 3 сентября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e115] [cursor=pointer]
+            - listitem [ref=e116]:
+              - generic [ref=e117]:
+                - img [ref=e120]
+                - generic [ref=e123]:
+                  - link "Моя земля" [ref=e125] [cursor=pointer]:
+                    - /url: /wiki/%D0%9C%D0%BE%D1%8F_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e126] [cursor=pointer]: «Моя земля» (дат. Under sandet, дословно — «Под песком») — художественный фильм режиссёра Мартина Зандвлиета, вышедший на экраны в 2015 году. Военная...
+                  - generic [ref=e127] [cursor=pointer]: 12 КБ (308 слов) - 11:53, 16 июля 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e128] [cursor=pointer]
+            - listitem [ref=e129]:
+              - generic [ref=e130]:
+                - img [ref=e133]
+                - generic [ref=e136]:
+                  - link "Человек с Земли" [ref=e138] [cursor=pointer]:
+                    - /url: /wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D1%81_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8
+                  - generic [ref=e139] [cursor=pointer]: «Человек с Земли» (англ. The Man from Earth) — научно-фантастический фильм 2007 года, снятый режиссёром Ричардом Шенкманом[англ.] по сценарию Джерома...
+                  - generic [ref=e140] [cursor=pointer]: 20 КБ (1292 слова) - 11:02, 16 июля 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e141] [cursor=pointer]
+            - listitem [ref=e142]:
+              - generic [ref=e143]:
+                - img [ref=e146]
+                - generic [ref=e149]:
+                  - 'link "Чужой: Земля" [ref=e151] [cursor=pointer]':
+                    - /url: /wiki/%D0%A7%D1%83%D0%B6%D0%BE%D0%B9:_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e152] [cursor=pointer]: основного канона. Действие сериала происходит на Земле в 2120 году, за два года до событий фильма «Чужой». Земля поделена на сферы влияния между несколькими...
+                  - generic [ref=e153] [cursor=pointer]: 49 КБ (1550 слов) - 09:09, 8 ноября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e154] [cursor=pointer]
+            - listitem [ref=e155]:
+              - generic [ref=e156]:
+                - link "Миниатюра для Земля Санникова" [ref=e158] [cursor=pointer]:
+                  - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%A1%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0
+                  - img "Миниатюра для Земля Санникова" [ref=e159]
+                - generic [ref=e160]:
+                  - link "Земля Санникова" [ref=e162] [cursor=pointer]:
+                    - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%A1%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0
+                  - generic [ref=e163] [cursor=pointer]: Земля́ Са́нникова (Санникова земля) — «остров-призрак», расположенный севернее Новосибирских островов в Северном Ледовитом океане, который якобы видели...
+                  - generic [ref=e164] [cursor=pointer]: 22 КБ (1196 слов) - 16:07, 2 августа 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e165] [cursor=pointer]
+            - listitem [ref=e166]:
+              - generic [ref=e167]:
+                - link "Миниатюра для Земли Германии" [ref=e169] [cursor=pointer]:
+                  - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D0%B8_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8
+                  - img "Миниатюра для Земли Германии" [ref=e170]
+                - generic [ref=e171]:
+                  - link "Земли Германии" [ref=e173] [cursor=pointer]:
+                    - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D0%B8_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8
+                  - generic [ref=e174] [cursor=pointer]: Земля́ (нем. Land — «земля, страна») в современной Германии с 1919 года — административно-территориальное образование, входящее в состав государства на...
+                  - generic [ref=e175] [cursor=pointer]: 30 КБ (1321 слово) - 10:14, 7 ноября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e176] [cursor=pointer]
+            - listitem [ref=e177]:
+              - generic [ref=e178]:
+                - link "Миниатюра для Земли" [ref=e180] [cursor=pointer]:
+                  - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D0%B8
+                  - img "Миниатюра для Земли" [ref=e181]
+                - generic [ref=e182]:
+                  - link "Земли" [ref=e184] [cursor=pointer]:
+                    - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D0%B8
+                  - generic [ref=e185] [cursor=pointer]: "каталоге встречаются названия: земля, называемая молоко луны; земля лекарственная; земля наподобие мелу и пр.. Каталог включает земли следующих видов: Глинистые..."
+                  - generic [ref=e186] [cursor=pointer]: 10 КБ (722 слова) - 21:32, 16 марта 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e187] [cursor=pointer]
+            - listitem [ref=e188]:
+              - generic [ref=e189]:
+                - link "Миниатюра для Земля Израильская" [ref=e191] [cursor=pointer]:
+                  - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F
+                  - img "Миниатюра для Земля Израильская" [ref=e192]
+                - generic [ref=e193]:
+                  - link "Земля Израильская" [ref=e195] [cursor=pointer]:
+                    - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F
+                  - generic [ref=e196] [cursor=pointer]: Земля Израильская, Земля Израиля (ивр. אֶרֶץ יִשְׂרָאֵל‎, Страна Израиля Э́рец-Исраэ́ль), также Земля обетова́нная, Свята́я земля́ — страна, историческая...
+                  - generic [ref=e197] [cursor=pointer]: 28 КБ (1937 слов) - 16:02, 2 ноября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e198] [cursor=pointer]
+            - listitem [ref=e199]:
+              - generic [ref=e200]:
+                - img [ref=e203]
+                - generic [ref=e206]:
+                  - link "Блуждающая Земля" [ref=e208] [cursor=pointer]:
+                    - /url: /wiki/%D0%91%D0%BB%D1%83%D0%B6%D0%B4%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e209] [cursor=pointer]: основу было взято произведение «Бегство Земли», написанное в 1960 году французом Франсисом Карсаком, а сцена, где Земля скована притяжением орбиты Юпитера...
+                  - generic [ref=e210] [cursor=pointer]: 28 КБ (1593 слова) - 15:42, 24 октября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e211] [cursor=pointer]
+            - listitem [ref=e212]:
+              - generic [ref=e213]:
+                - img [ref=e216]
+                - generic [ref=e219]:
+                  - link "Земля (значения)" [ref=e221] [cursor=pointer]:
+                    - /url: /wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
+                  - generic [ref=e222] [cursor=pointer]: "Земля: Значения в Викисловаре Тексты в Викитеке Земля́ — многозначный термин. Земля — третья от Солнца планета в Солнечной системе. Земля — в смысле грунт..."
+                  - generic [ref=e223] [cursor=pointer]: 6 КБ (396 слов) - 17:45, 29 сентября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e224] [cursor=pointer]
+            - listitem [ref=e225]:
+              - generic [ref=e226]:
+                - link "Миниатюра для Новгородская земля" [ref=e228] [cursor=pointer]:
+                  - /url: /wiki/%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F
+                  - img "Миниатюра для Новгородская земля" [ref=e229]
+                - generic [ref=e230]:
+                  - link "Новгородская земля" [ref=e232] [cursor=pointer]:
+                    - /url: /wiki/%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e233] [cursor=pointer]: Новгоро́дская земля́ (Новгородская Русь, Новгородчина) — одно из крупнейших исторических территориально-государственных образований Руси, охватывавшее...
+                  - generic [ref=e234] [cursor=pointer]: 83 КБ (5080 слов) - 20:57, 22 октября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e235] [cursor=pointer]
+            - listitem [ref=e236]:
+              - generic [ref=e237]:
+                - link "Миниатюра для Мисс Земля" [ref=e239] [cursor=pointer]:
+                  - /url: /wiki/%D0%9C%D0%B8%D1%81%D1%81_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - img "Миниатюра для Мисс Земля" [ref=e240]
+                - generic [ref=e241]:
+                  - link "Мисс Земля" [ref=e243] [cursor=pointer]:
+                    - /url: /wiki/%D0%9C%D0%B8%D1%81%D1%81_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e244] [cursor=pointer]: "Мисс Земля — Натали Пушкинова из Чехии, была коронована 5 ноября 205 года. Королевами Стихий в 2025 году стали: Солдис Вала Иварсдоттир (Мисс Земля Воздух)..."
+                  - generic [ref=e245] [cursor=pointer]: 94 КБ (5179 слов) - 16:13, 5 ноября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e246] [cursor=pointer]
+            - listitem [ref=e247]:
+              - generic [ref=e248]:
+                - img [ref=e251]
+                - generic [ref=e254]:
+                  - link "Академия и Земля" [ref=e256] [cursor=pointer]:
+                    - /url: /wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e257] [cursor=pointer]: "«Академия и Земля» (другие варианты перевода: «Основание и Земля», «Фонд и Земля», англ. Foundation and Earth) — научно-фантастический роман американского..."
+                  - generic [ref=e258] [cursor=pointer]: 13 КБ (797 слов) - 19:20, 1 сентября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e259] [cursor=pointer]
+            - listitem [ref=e260]:
+              - generic [ref=e261]:
+                - link "Миниатюра для Плоская Земля" [ref=e263] [cursor=pointer]:
+                  - /url: /wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%B0%D1%8F_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - img "Миниатюра для Плоская Земля" [ref=e264]
+                - generic [ref=e265]:
+                  - link "Плоская Земля" [ref=e267] [cursor=pointer]:
+                    - /url: /wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%B0%D1%8F_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e268] [cursor=pointer]: ряду архаических представлений Земля представляет собой плоский диск или плоскость иной формы. Представление о форме Земли как о плоскости присутствовала...
+                  - generic [ref=e269] [cursor=pointer]: 81 КБ (5309 слов) - 11:03, 2 ноября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e270] [cursor=pointer]
+            - listitem [ref=e271]:
+              - generic [ref=e272]:
+                - link "Миниатюра для Саксония (земля)" [ref=e274] [cursor=pointer]:
+                  - /url: /wiki/%D0%A1%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%B8%D1%8F_(%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F)
+                  - img "Миниатюра для Саксония (земля)" [ref=e275]
+                - generic [ref=e276]:
+                  - link "Саксония (земля)" [ref=e278] [cursor=pointer]:
+                    - /url: /wiki/%D0%A1%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%B8%D1%8F_(%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F)
+                  - generic [ref=e279] [cursor=pointer]: Sachsen [ˈfʁaɪ̯ʃtaːt ˈzaksn̩], в.-луж. Swobodny stat Sakska) — федеральная земля в составе ФРГ, расположенная на востоке страны. Столица — город Дрезден...
+                  - generic [ref=e280] [cursor=pointer]: 53 КБ (1889 слов) - 19:49, 4 ноября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e281] [cursor=pointer]
+            - listitem [ref=e282]:
+              - generic [ref=e283]:
+                - link "Миниатюра для Google Планета Земля" [ref=e285] [cursor=pointer]:
+                  - /url: /wiki/Google_%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - img "Миниатюра для Google Планета Земля" [ref=e286]
+                - generic [ref=e287]:
+                  - link "Google Планета Земля" [ref=e289] [cursor=pointer]:
+                    - /url: /wiki/Google_%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e290] [cursor=pointer]: внедрила в Google Планета Земля мини-игру по мотивам игры 1985 года «Где находится Кармен Сандиего?». Google Планета Земля отображается в виде цифрового...
+                  - generic [ref=e291] [cursor=pointer]: 72 КБ (4421 слово) - 12:59, 5 ноября 2025
+                  - button "Открыть предпросмотр этой статьи." [ref=e292] [cursor=pointer]
+            - listitem [ref=e293]:
+              - generic [ref=e294]:
+                - img [ref=e297]
+                - generic [ref=e300]:
+                  - link "Низовская земля" [ref=e302] [cursor=pointer]:
+                    - /url: /wiki/%D0%9D%D0%B8%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F
+                  - generic [ref=e303] [cursor=pointer]: "В. Е. Низовская земля // Энциклопедический словарь Брокгауза и Ефрона : в 86 т. (82 т. и 4 доп.). — СПб., 1890—1907. Низовская земля // Большая советская..."
+                  - generic [ref=e304] [cursor=pointer]: 3 КБ (222 слова) - 14:55, 10 ноября 2023
+                  - button "Открыть предпросмотр этой статьи." [ref=e305] [cursor=pointer]
+          - generic [ref=e306]:
+            - list:
+              - listitem [ref=e307]:
+                - link "В Викитеке" [ref=e310] [cursor=pointer]:
+                  - /url: https://ru.wikisource.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+                - link "Земля" [ref=e312] [cursor=pointer]:
+                  - /url: https://ru.wikisource.org/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                - generic [ref=e313]: "Земля: Земля — цикл стихотворений Константина Дмитриевича Бальмонта. Земля — статья в Библейской энциклопедии архимандрита Никифора. Земля — статья в Еврейской"
+                - link "Увидеть все результаты" [ref=e315] [cursor=pointer]:
+                  - /url: https://ru.wikisource.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+              - listitem [ref=e316]:
+                - link "В Викиновостях" [ref=e319] [cursor=pointer]:
+                  - /url: https://ru.wikinews.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+                - 'link "Новинки российского проката: «Вавилон н.э.» и «Новая Земля»" [ref=e321] [cursor=pointer]':
+                  - /url: https://ru.wikinews.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0:_%C2%AB%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD_%D0%BD.%D1%8D.%C2%BB_%D0%B8_%C2%AB%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%C2%BB
+                - generic [ref=e322]: корабль. В кинотеатрах можно будет увидеть и российскую картину «Новая Земля» (Россия, 2008, Александр Мельник) с Константином Лавроненко в главной роли
+                - link "Увидеть все результаты" [ref=e324] [cursor=pointer]:
+                  - /url: https://ru.wikinews.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+              - listitem [ref=e325]:
+                - link "В Викисловаре" [ref=e328] [cursor=pointer]:
+                  - /url: https://ru.wiktionary.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+                - link "земля" [ref=e330] [cursor=pointer]:
+                  - /url: https://ru.wiktionary.org/wiki/%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F
+                - generic [ref=e331]: "и небо и земля. А. А. Фет, «Приметы», середина 1850-х гг. ◆ И всё-таки в тот же день, 11 февраля, палубу шкуны, наконец, огласил крик: «Земля!» — и вдали"
+                - link "Увидеть все результаты" [ref=e333] [cursor=pointer]:
+                  - /url: https://ru.wiktionary.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+              - listitem [ref=e334]:
+                - link "В Викицитатнике" [ref=e337] [cursor=pointer]:
+                  - /url: https://ru.wikiquote.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+                - link "Земля" [ref=e339] [cursor=pointer]:
+                  - /url: https://ru.wikiquote.org/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                - generic [ref=e340]: Земля — третья планета от Солнца; пятая по размеру среди всех планет Солнечной системы; колыбель человечества. Земля // Большая книга афоризмов (изд. 9-е
+                - link "Увидеть все результаты" [ref=e342] [cursor=pointer]:
+                  - /url: https://ru.wikiquote.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+              - listitem [ref=e343]:
+                - link "В Викиучебнике" [ref=e346] [cursor=pointer]:
+                  - /url: https://ru.wikibooks.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+                - link "Bina.Zone/Книга Зоар/Том 1/Небо и земля" [ref=e348] [cursor=pointer]:
+                  - /url: https://ru.wikibooks.org/wiki/Bina.Zone/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%97%D0%BE%D0%B0%D1%80/%D0%A2%D0%BE%D0%BC_1/%D0%9D%D0%B5%D0%B1%D0%BE_%D0%B8_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F
+                - generic [ref=e349]: "также в нижней земле есть семь видов земли: Эрец (поверхность земли), Адама (почва), Арка (пропасть), Гей (долина), Нешия (могильная земля), Ция (сушь)"
+                - link "Увидеть все результаты" [ref=e351] [cursor=pointer]:
+                  - /url: https://ru.wikibooks.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+              - listitem [ref=e352]:
+                - link "В Викиверситете" [ref=e355] [cursor=pointer]:
+                  - /url: https://ru.wikiversity.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+                - link "Природоведение (5 класс)/Как возникла Земля" [ref=e357] [cursor=pointer]:
+                  - /url: https://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_(5_%D0%BA%D0%BB%D0%B0%D1%81%D1%81)/%D0%9A%D0%B0%D0%BA_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BB%D0%B0_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                - generic [ref=e358]: Как возникла Земля? Первые гипотезы о возникновении Земли появились в XVII веке. "Жорж Бюффон" (1707 - 1788) Считал, что Земля и другие планеты возникли
+                - link "Увидеть все результаты" [ref=e360] [cursor=pointer]:
+                  - /url: https://ru.wikiversity.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+              - listitem [ref=e361]:
+                - link "В Викигиде" [ref=e364] [cursor=pointer]:
+                  - /url: https://ru.wikivoyage.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+                - link "Святая Земля" [ref=e366] [cursor=pointer]:
+                  - /url: https://ru.wikivoyage.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0%D1%8F_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+                - generic [ref=e367]: Эта статья является маршрутом Святая Земля — общий термин, который обычно относится к одной или нескольким странам на Ближнем Востоке - регионе мира,
+                - link "Увидеть все результаты" [ref=e369] [cursor=pointer]:
+                  - /url: https://ru.wikivoyage.org/wiki/Special:Search?search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1
+              - listitem [ref=e370]:
+                - strong [ref=e372]: Мультимедиа
+                - generic [ref=e373]:
+                  - link [ref=e375] [cursor=pointer]:
+                    - /url: /wiki/%D0%A4%D0%B0%D0%B9%D0%BB:City_Lights_of_Asia_and_Middle_East_2016.png
+                  - link [ref=e377] [cursor=pointer]:
+                    - /url: /wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D0%B8%D1%85%D0%B0%D1%8F2.jpg
+                  - link [ref=e379] [cursor=pointer]:
+                    - /url: /wiki/%D0%A4%D0%B0%D0%B9%D0%BB:D%C3%BClmen,_Heilig-Kreuz-Kirche,_The_Cast_Whale_Project_--_2022_--_0624.jpg
+                - link "ещё результаты" [ref=e381] [cursor=pointer]:
+                  - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Search&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&fulltext=1&profile=images
+          - paragraph [ref=e382]:
+            - text: Искать в (
+            - link "Google" [ref=e383] [cursor=pointer]:
+              - /url: https://google.com/search?q=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F+site:ru.wikipedia.org&hl=ru
+            - text: "|"
+            - link "Яндексе" [ref=e384] [cursor=pointer]:
+              - /url: https://yandex.ru/yandsearch?text=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&site=ru.wikipedia.org
+            - text: "|"
+            - link "Bing" [ref=e385] [cursor=pointer]:
+              - /url: https://www.bing.com/search?q=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F+site:ru.wikipedia.org
+            - text: )
+          - generic [ref=e387]:
+            - text: Просмотреть (предыдущие 20 |
+            - link "следующие 20" [ref=e388] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=20&offset=20&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: ) (20 |
+            - link "50" [ref=e389] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=50&offset=0&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: "|"
+            - link "100" [ref=e390] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=100&offset=0&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: "|"
+            - link "250" [ref=e391] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=250&offset=0&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: "|"
+            - link "500" [ref=e392] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&limit=500&offset=0&profile=default&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F
+            - text: )
+  - generic:
+    - heading "Навигация" [level=2] [ref=e393]
+    - generic [ref=e394]:
+      - navigation "Персональные инструменты" [ref=e395]:
+        - list [ref=e397]:
+          - listitem [ref=e398]: Вы не представились системе
+          - listitem [ref=e399]:
+            - link "Обсуждение" [ref=e400] [cursor=pointer]:
+              - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+          - listitem [ref=e401]:
+            - link "Вклад" [ref=e402] [cursor=pointer]:
+              - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4
+          - listitem [ref=e403]:
+            - link "Создать учётную запись" [ref=e404] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&returnto=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&returntoquery=fulltext%3D%25D0%259D%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B8%26ns0%3D1%26search%3D%25D0%2597%25D0%25B5%25D0%25BC%25D0%25BB%25D1%258F
+          - listitem [ref=e405]:
+            - link "Войти" [ref=e406] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&returnto=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&returntoquery=fulltext%3D%25D0%259D%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B8%26ns0%3D1%26search%3D%25D0%2597%25D0%25B5%25D0%25BC%25D0%25BB%25D1%258F
+      - navigation "Пространства имён" [ref=e408]:
+        - list [ref=e409]:
+          - listitem [ref=e410]:
+            - link "Служебная страница" [ref=e411] [cursor=pointer]:
+              - /url: /w/index.php?fulltext=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&ns0=1&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA
+      - search [ref=e413]:
+        - heading "Поиск" [level=3] [ref=e414]
+        - generic [ref=e416]:
+          - searchbox "Искать в Википедии" [ref=e417]
+          - button "Перейти" [ref=e418] [cursor=pointer]
+    - generic [ref=e419]:
+      - banner [ref=e420]:
+        - link "Перейти на заглавную страницу" [ref=e421] [cursor=pointer]:
+          - /url: /wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+      - navigation "Навигация" [ref=e422]:
+        - list [ref=e424]:
+          - listitem [ref=e425]:
+            - link "Заглавная страница" [ref=e426] [cursor=pointer]:
+              - /url: /wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+          - listitem [ref=e427]:
+            - link "Содержание" [ref=e428] [cursor=pointer]:
+              - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5
+          - listitem [ref=e429]:
+            - link "Избранные статьи" [ref=e430] [cursor=pointer]:
+              - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8
+          - listitem [ref=e431]:
+            - link "Случайная статья" [ref=e432] [cursor=pointer]:
+              - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+          - listitem [ref=e433]:
+            - link "Текущие события" [ref=e434] [cursor=pointer]:
+              - /url: /wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F
+          - listitem [ref=e435]:
+            - link "Пожертвовать" [ref=e436] [cursor=pointer]:
+              - /url: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=ru.wikipedia.org&uselang=ru
+      - navigation "Участие" [ref=e437]:
+        - heading "Участие" [level=3] [ref=e438]
+        - list [ref=e440]:
+          - listitem [ref=e441]:
+            - button "Сообщить об ошибке" [ref=e442] [cursor=pointer]
+          - listitem [ref=e443]:
+            - link "Как править статьи" [ref=e444] [cursor=pointer]:
+              - /url: /wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5
+          - listitem [ref=e445]:
+            - link "Сообщество" [ref=e446] [cursor=pointer]:
+              - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE
+          - listitem [ref=e447]:
+            - link "Форум" [ref=e448] [cursor=pointer]:
+              - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC
+          - listitem [ref=e449]:
+            - link "Справка" [ref=e450] [cursor=pointer]:
+              - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0
+          - listitem [ref=e451]:
+            - link "Свежие правки" [ref=e452] [cursor=pointer]:
+              - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8
+          - listitem [ref=e453]:
+            - link "Новые страницы" [ref=e454] [cursor=pointer]:
+              - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B
+          - listitem [ref=e455]:
+            - link "Служебные страницы" [ref=e456] [cursor=pointer]:
+              - /url: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B
+      - navigation "Инструменты" [ref=e457]:
+        - heading "Инструменты" [level=3] [ref=e458]
+        - list [ref=e460]:
+          - listitem [ref=e461]:
+            - link "Версия для печати" [ref=e462] [cursor=pointer]:
+              - /url: javascript:print();
+          - listitem [ref=e463]:
+            - link "Получить короткий URL" [ref=e464] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&url=https%3A%2F%2Fru.wikipedia.org%2Fw%2Findex.php%3Ftitle%3D%25D0%25A1%25D0%25BB%25D1%2583%25D0%25B6%25D0%25B5%25D0%25B1%25D0%25BD%25D0%25B0%25D1%258F%3A%25D0%259F%25D0%25BE%25D0%25B8%25D1%2581%25D0%25BA%26fulltext%3D%25D0%259D%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B8%26ns0%3D1%26search%3D%25D0%2597%25D0%25B5%25D0%25BC%25D0%25BB%25D1%258F
+          - listitem [ref=e465]:
+            - link "Скачать QR-код" [ref=e466] [cursor=pointer]:
+              - /url: /w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&url=https%3A%2F%2Fru.wikipedia.org%2Fw%2Findex.php%3Ftitle%3D%25D0%25A1%25D0%25BB%25D1%2583%25D0%25B6%25D0%25B5%25D0%25B1%25D0%25BD%25D0%25B0%25D1%258F%3A%25D0%259F%25D0%25BE%25D0%25B8%25D1%2581%25D0%25BA%26fulltext%3D%25D0%259D%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B8%26ns0%3D1%26search%3D%25D0%2597%25D0%25B5%25D0%25BC%25D0%25BB%25D1%258F
+      - navigation "Языки" [ref=e467]:
+        - button "Установки языка" [ref=e468] [cursor=pointer]
+        - heading "Языки" [level=3] [ref=e469]
+        - list [ref=e471]
+  - contentinfo [ref=e472]:
+    - list
+    - list:
+      - listitem [ref=e473]:
+        - link "Политика конфиденциальности" [ref=e474] [cursor=pointer]:
+          - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru
+      - listitem [ref=e475]:
+        - link "Описание Википедии" [ref=e476] [cursor=pointer]:
+          - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5
+      - listitem [ref=e477]:
+        - link "Отказ от ответственности" [ref=e478] [cursor=pointer]:
+          - /url: /wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+      - listitem [ref=e479]:
+        - link "Свяжитесь с нами" [ref=e480] [cursor=pointer]:
+          - /url: //ru.wikipedia.org/wiki/Википедия:Контакты
+      - listitem [ref=e481]:
+        - link "Кодекс поведения" [ref=e482] [cursor=pointer]:
+          - /url: https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru
+      - listitem [ref=e483]:
+        - link "Разработчики" [ref=e484] [cursor=pointer]:
+          - /url: https://developer.wikimedia.org
+      - listitem [ref=e485]:
+        - link "Статистика" [ref=e486] [cursor=pointer]:
+          - /url: https://stats.wikimedia.org/#/ru.wikipedia.org
+      - listitem [ref=e487]:
+        - link "Заявление о куки" [ref=e488] [cursor=pointer]:
+          - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+      - listitem [ref=e489]:
+        - link "Мобильная версия" [ref=e490] [cursor=pointer]:
+          - /url: //ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&fulltext=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&ns0=1&search=%D0%97%D0%B5%D0%BC%D0%BB%D1%8F&mobileaction=toggle_view_mobile
+    - list [ref=e491]:
+      - listitem [ref=e492]:
+        - link "Wikimedia Foundation" [ref=e493] [cursor=pointer]:
+          - /url: https://www.wikimedia.org/
+          - img "Wikimedia Foundation" [ref=e495]
+      - listitem [ref=e496]:
+        - link "Powered by MediaWiki" [ref=e497] [cursor=pointer]:
+          - /url: https://www.mediawiki.org/
+          - img "Powered by MediaWiki" [ref=e499]
+  - generic:
+    - list
+```
